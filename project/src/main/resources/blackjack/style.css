@@ -1,0 +1,18 @@
+*{
+	-fx-font-family: Sans-serif;
+}
+
+.blackjackBoard{
+	-fx-background-image: url("background.jpg");
+	-fx-background-repeat: no-repeat;
+	-fx-background-size: 700px 500px;
+}
+
+.chips{
+	-fx-image: url("chips.png")
+}
+
+
+.flowPane{
+	-fx-border-color: black;
+}

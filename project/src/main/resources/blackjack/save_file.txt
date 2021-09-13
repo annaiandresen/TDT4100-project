@@ -1,0 +1,11 @@
+Player
+500
+S10 C7 
+true
+
+Dealer
+0
+H9 H10 
+true
+
+2
